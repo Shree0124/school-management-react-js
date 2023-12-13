@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shree0124/school-management-react-js.git/static/css/main.c17c0167.css",
+    "main.js": "/Shree0124/school-management-react-js.git/static/js/main.b43a98d9.js",
+    "index.html": "/Shree0124/school-management-react-js.git/index.html",
+    "main.c17c0167.css.map": "/Shree0124/school-management-react-js.git/static/css/main.c17c0167.css.map",
+    "main.b43a98d9.js.map": "/Shree0124/school-management-react-js.git/static/js/main.b43a98d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17c0167.css",
+    "static/js/main.b43a98d9.js"
+  ]
+}
